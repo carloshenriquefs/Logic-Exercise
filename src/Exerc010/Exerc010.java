@@ -4,7 +4,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class Exerc11 {
-    //nelio
+    
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
